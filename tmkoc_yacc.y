@@ -79,7 +79,7 @@ program: block
        ;
 
 block: GOKULDHAM OPEN_BRACE {
-          printf("Good Morning Gokuldham!\n");  // Print welcome message
+          printf("Good Morning Gokuldham!\n");  // welcome message
       }
       statement_list CLOSE_BRACE;
 
