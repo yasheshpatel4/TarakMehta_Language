@@ -12,9 +12,7 @@
 #if YY_FLEX_SUBMINOR_VERSION > 0
 #define FLEX_BETA
 #endif
-
 /* First, we deal with  platform-specific or compiler-specific issues. */
-
 /* begin standard C headers. */
 #include <stdio.h>
 #include <string.h>
