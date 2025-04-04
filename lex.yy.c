@@ -20,7 +20,6 @@
 #include <stdlib.h>
 
 /* end standard C headers. */
-
 /* flex integer type definitions */
 
 #ifndef FLEXINT_H
